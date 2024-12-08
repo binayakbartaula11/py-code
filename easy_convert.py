@@ -1,4 +1,3 @@
-# Function to convert units of length
 def length_converter(value, from_unit, to_unit):
     length_units = {
         'meters': 1.0,
